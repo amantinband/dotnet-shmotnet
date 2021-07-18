@@ -17,8 +17,8 @@ title: .NET History
 email: amichai@mantinband.com
 description: >- # this means to ignore newlines until "baseurl:"
     Where can I find a concise history of .NET stuff? Here!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "mantinband.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/dotnet-shmotnet" # the subpath of your site, e.g. /blog
 github_username:  mantinband
 
 # Build settings
