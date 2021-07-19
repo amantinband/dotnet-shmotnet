@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: .NET history Cheat Sheet
+title: .NET History Cheat Sheet
 email: amichai@mantinband.com
 description: >- # this means to ignore newlines until "baseurl:"
     Where can I find a concise history of .NET stuff? Here!
